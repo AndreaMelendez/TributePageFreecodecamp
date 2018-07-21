@@ -1,0 +1,28 @@
+img {
+  max-width: 100%;
+  display: block;
+}
+#image{
+  width: 400px;
+  display: block;
+  margin: auto;
+}
+#img-div{
+  width:100%;
+  border:5px solid #B00020;
+}
+html,body{
+  font-family: Trebuchet MS, monospace;
+  text-align: center;
+}
+ul{
+  max-width:700px;
+  margin:0 auto;
+  text-align:justify;
+}
+li{
+  margin: 10px;
+}
+#title{
+  font-size: 50px;
+}
