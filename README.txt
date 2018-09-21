@@ -1,3 +1,3 @@
-Basic Tribute page for freecodecamp, responsive.
+Basic Tribute page for freecodecamp, responsive - FCC Project
 
  
